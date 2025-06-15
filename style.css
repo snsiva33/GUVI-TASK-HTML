@@ -1,0 +1,198 @@
+*
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #1f2a38;
+  color: white;
+  background-image: url("image1/obesity.png");
+}
+
+.container {
+  max-width: 500px;
+  margin: auto;
+  padding: 20px;
+}
+.centered-img {
+  width: 50px;
+  height: 50px;
+  display: block;
+  margin: 0 auto;
+}
+
+
+
+h1 {
+  text-align: center;
+  image-orientation: flip;
+  color: #ff3b3f;
+  font-size: 3em;
+  margin-bottom: 0;
+
+}
+
+h2 {
+  text-align: center;
+  font-size: 1.5em;
+  margin-top: 0;
+}
+
+section {
+  margin: 20px 0;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.single {
+  padding: 20px;
+}
+
+.split {
+  display: flex;
+  gap: 20px;
+}
+
+.split.two > div {
+  flex: 1;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.orange-blue > div:first-child {
+  background: #ff9900;
+}
+.orange-blue > div:last-child {
+  background: #2db9e7;
+}
+
+.orange-pink > div:first-child {
+  background: #ffa034;
+}
+.orange-pink > div:last-child {
+  background: #ff5e7e;
+}
+
+.blue-red > div:first-child {
+  background: #2db9e7;
+}
+.blue-red > div:last-child {
+  background: #ef3e4a;
+}
+
+.orange {
+  background: #f9a825;
+}
+
+.blue {
+  background: #039be5;
+}
+
+.red {
+  background: #ef5350;
+}
+
+h2 {
+  margin-top: 0;
+  color: white;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+strong {
+  font-weight: bold;
+  color: #fffacd;
+}
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #1f2a38;
+  color: white;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #ff3b3f;
+  font-size: 3em;
+  margin-bottom: 0;
+}
+
+h2 {
+  text-align: center;
+  font-size: 1.5em;
+  margin-top: 0;
+}
+
+section {
+  margin: 20px 0;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.single {
+  padding: 20px;
+}
+
+.split {
+  display: flex;
+  gap: 20px;
+}
+
+.split.two > div {
+  flex: 1;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.orange-blue > div:first-child {
+  background: #ff9900;
+}
+.orange-blue > div:last-child {
+  background: #2db9e7;
+}
+
+.orange-pink > div:first-child {
+  background: #ffa034;
+}
+.orange-pink > div:last-child {
+  background: #ff5e7e;
+}
+
+.blue-red > div:first-child {
+  background: #2db9e7;
+}
+.blue-red > div:last-child {
+  background: #ef3e4a;
+}
+
+.orange {
+  background: #f9a825;
+}
+
+.blue {
+  background: #039be5;
+}
+
+.red {
+  background: #ef5350;
+}
+
+h3 {
+  margin-top: 0;
+  color: white;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+strong {
+  font-weight: bold;
+  color: #fffacd;
+}
